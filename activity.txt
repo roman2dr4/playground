@@ -8,3 +8,4 @@
 2026-02-11 14:41:53 - minor clarification
 2026-02-11 14:42:07 - minor clarification
 2026-02-11 14:42:22 - formatting pass
+2026-02-11 15:46:41 - updated a note
