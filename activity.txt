@@ -501,3 +501,4 @@
 2026-02-13 17:23:56 - updated visual detail
 2026-02-13 17:24:03 - cleaned CSS block
 2026-02-13 17:24:11 - minor front tweak
+2026-02-13 17:24:18 - refined structure
