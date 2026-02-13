@@ -89,3 +89,4 @@
 2026-02-13 17:18:28 - improved alignment
 2026-02-13 17:18:35 - improved alignment
 2026-02-13 17:18:43 - minor front tweak
+2026-02-13 17:18:50 - refined layout
