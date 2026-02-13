@@ -82,3 +82,4 @@
 2026-02-13 17:17:37 - updated spacing
 2026-02-13 17:17:44 - tweaked component
 2026-02-13 17:17:51 - cleaned CSS block
+2026-02-13 17:17:59 - improved alignment
