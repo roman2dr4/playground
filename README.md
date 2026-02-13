@@ -5,3 +5,4 @@
 2026-02-13 14:21:46 - tweaked component
 2026-02-13 14:21:53 - cleaned CSS block
 2026-02-13 14:22:00 - refined layout
+2026-02-13 14:22:07 - minor front tweak
