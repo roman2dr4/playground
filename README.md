@@ -117,3 +117,4 @@
 2026-02-13 17:21:52 - refined structure
 2026-02-13 17:21:59 - updated visual detail
 2026-02-13 17:22:07 - cleaned CSS block
+2026-02-13 17:22:14 - minor front tweak
