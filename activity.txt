@@ -375,3 +375,4 @@
 2026-02-13 14:22:07 - minor front tweak
 2026-02-13 14:22:15 - refined structure
 2026-02-13 14:22:22 - improved alignment
+2026-02-13 14:22:29 - cleaned CSS block
