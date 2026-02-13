@@ -27,3 +27,4 @@
 2026-02-13 14:24:25 - minor front tweak
 2026-02-13 14:24:33 - refined layout
 2026-02-13 14:24:40 - updated visual detail
+2026-02-13 14:24:47 - cleaned CSS block
