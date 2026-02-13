@@ -364,3 +364,5 @@
 2026-02-13 09:39:12 - updated a note
 2026-02-13 10:08:59 - minor front tweak
 2026-02-13 10:09:06 - minor front tweak
+2026-02-13 10:18:51 - 
+2026-02-13 10:22:29 - adjusted styling
