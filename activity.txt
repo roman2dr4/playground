@@ -473,3 +473,4 @@
 2026-02-13 17:20:32 - refined structure
 2026-02-13 17:20:39 - updated visual detail
 2026-02-13 17:20:46 - refined layout
+2026-02-13 17:20:54 - cleaned CSS block
