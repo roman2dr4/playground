@@ -214,3 +214,4 @@
 2026-02-13 20:07:36 - minor front tweak
 2026-02-13 20:07:43 - tweaked component
 2026-02-13 20:07:51 - cleaned CSS block
+2026-02-13 20:07:58 - updated spacing
