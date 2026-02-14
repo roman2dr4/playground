@@ -280,3 +280,4 @@
 2026-02-14 21:32:54 - adjusted spacing
 2026-02-14 21:33:01 - adjusted spacing
 2026-02-14 21:33:12 - adjusted spacing
+2026-02-14 21:33:17 - cleaned CSS block
