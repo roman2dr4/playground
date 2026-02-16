@@ -360,3 +360,4 @@
 2026-02-16 19:18:28 - adjusted spacing
 2026-02-16 19:18:57 - minor visual change
 2026-02-16 19:20:00 - adjusted spacing
+2026-02-16 19:20:13 - cleaned CSS block
