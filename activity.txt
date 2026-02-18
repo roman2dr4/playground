@@ -805,3 +805,4 @@
 2026-02-18 10:31:55 - cleaned CSS block
 2026-02-18 10:32:17 - cleaned CSS block
 2026-02-18 10:32:38 - cleaned CSS block
+2026-02-18 10:32:55 - minor visual change
