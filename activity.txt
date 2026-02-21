@@ -915,3 +915,4 @@
 2026-02-21 11:02:07 - adjusted spacing
 2026-02-21 11:02:41 - adjusted spacing
 2026-02-21 11:02:48 - adjusted spacing
+2026-02-21 11:02:56 - cleaned CSS block
