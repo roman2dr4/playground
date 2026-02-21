@@ -888,3 +888,4 @@
 2026-02-20 12:22:42 - adjusted spacing
 2026-02-20 12:22:50 - adjusted spacing
 2026-02-21 10:50:47 - cleaned CSS block
+2026-02-21 10:51:35 - minor visual change
