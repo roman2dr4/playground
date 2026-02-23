@@ -572,3 +572,4 @@
 2026-02-23 11:27:51 - minor visual change
 2026-02-23 11:28:23 - adjusted spacing
 2026-02-23 11:28:31 - adjusted spacing
+2026-02-23 11:29:16 - cleaned CSS block
